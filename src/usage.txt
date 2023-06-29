@@ -1,0 +1,4 @@
+Usage: which-sig [EXIT_CODE | OPTION]
+Write to standard output the signal name that caused a program to exit with EXIT_CODE.
+
+  --help, help  Print this help and exit successfully.
